@@ -1,0 +1,15 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #000;
+  overflow: hidden;
+}
+
+#clock {
+  font-family: 'Oxygen Mono', monospace;
+  font-size: 6rem;
+  color: #32cd32;
+  /* text-shadow:2px 2px 10px #32cd32 ; */
+}
